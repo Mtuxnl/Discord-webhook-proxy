@@ -45,7 +45,6 @@ Zorg ervoor dat de server.py uit dat project draait en bereikbaar is via de host
 ```
 .
 ├── app.py             # Hoofdlogica van de Flask-applicatie
-├── build.sh           # Script om multi-arch Docker images te bouwen
 ├── Dockerfile         # Docker build configuratie
 └── requirements.txt   # Python afhankelijkheden
 ```
